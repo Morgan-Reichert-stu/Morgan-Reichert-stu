@@ -13,7 +13,7 @@
 
 ### 📌 À propos
 
-- 🎓 **Formation :** Étudiant en informatique à **Epitech Lille**
+- 🎓 **Formation :** Étudiant en ingénierie informatique / computer science à **Epitech Lille**
 - 📍 **Localisation :** Lille, France
 - 💻 **Centres d'intérêt :** Développement logiciel, programmation système, nouvelles technologies
 
